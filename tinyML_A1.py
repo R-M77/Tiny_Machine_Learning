@@ -33,4 +33,3 @@ for epoch in epoch_numbers:
 plt.legend()
 plt.show()
 
-print(model.predict([10]))
