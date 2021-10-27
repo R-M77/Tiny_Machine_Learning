@@ -1,0 +1,25 @@
+Lesson 2.2
+
+"""Neurons in code"""
+
+y is a function of x,
+y = f(x)
+
+y = w(x)+b
+
+class Model
+
+Machine learning diagram
+Make a guess --> Measure accuracy --> optimize guess
+--> repeat cycle
+
+def loss(predicted_y, target_y):
+    return tf.reduce_mean(tf.square(predicted_y-target_y))
+
+then use gradient tape to calculate loss and train Model
+differentiate w's and b's against loss function to get gradients and get directions towards goal. direction of zero loss
+
+____ minimizing loss lab in colab ____
+
+
+Lesson 
