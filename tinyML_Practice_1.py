@@ -52,3 +52,4 @@ n3_output = (layer_2_w1*n1_output) + (layer_2_w2*n2_output) + layer_2_b
 
 print(n3_output)
 
+
