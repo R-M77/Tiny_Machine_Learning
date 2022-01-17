@@ -1,0 +1,9 @@
+Giving back to the Open Source Community
+
+We have explored community driven data collection through the examples of both the Speech Commands Dataset and the Common Voice Project. We discussed the benefits and limitations of these approaches. Given that we believe that these projects are important for the TinyML community, we thought it would be a good idea (and fun) to give you a chance to contribute to such a project and fortunately, the Common Voice project is still actively collecting data and looking for help with validating recordings from other users!
+
+This is 100% optional. You are in no means required to contribute and your contribution will have no impact or bearing on your completion of the course. If you would like to contribute to the Common Voice project the link can be found below. Please consult the data privacy documents and warnings listed on the website before participating.
+
+https://commonvoice.mozilla.org/
+
+Update: The Common Voice project has decided to combine their single world data collection and validation with their full sentence data collection and validation. As such, you will see a mix of single words and full sentences if you choose to contribute.

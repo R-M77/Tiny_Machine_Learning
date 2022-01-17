@@ -1,0 +1,33 @@
+Skip to main content
+Industry 4.0 and TinyML
+
+Industry examples in using TinyML
+
+Possibly the greatest impact of tinyML is likely to occur in industrial sectors. The technology is likely to be both disruptive and enabling, providing large benefits to those who are able to leverage it for effective use in business operations. Some industry professionals prognosticate that the introduction of “intelligent” internet of things (IoT)  devices afforded by tinyML is akin to a new industrial revolution, leading some to refer to its future potential as Industry 4.0.
+
+What is Industry 4.0?
+
+The reason for this name is relatively simple and refers to the fourth industrial revolution. The industrial revolutions refer to specific transformative technologies that revolutionized the industry. 
+
+The first industrial revolution started around the 1770’s with the large-scale use of steam and water power, moving from traditional human labor on farms to the first factories and resulting in an exponential increase in productivity. 
+
+This continued until the introduction of electricity at the end of the 19th century, when electricity began to be introduced, prompting the second industrial revolution. This revolution kick-started mass production via assembly lines and automation and further increased the productivity of industrial processes, giving us the notion of a factory as we know it today. 
+
+This continued until the 1950’s when the digital revolution prompted the third industrial revolution. The introduction of computation allowed industrial processes to become controlled and monitored with greater ease, allowing some of the blue-collar work to be automated. 
+
+In recent years, we have started to see a move towards another industrial revolution focused on the interconnectedness of industrial processes. Instead of considering standalone industrial processes, they are considered as part of a network of interconnected processes. Essentially, these processes are in a constant state of communication. This has been enabled by the introduction of intelligent IoT devices tightly coupled with cyber-physical systems, affording capabilities for real-time monitoring and control such as predictive maintenance.
+
+Four industrial revolutions. First mechanization and steam and water power. Second, mass production using electricity. Third, automated production, computers and IT systems. Fourth, the smart factory using autonomous systems, internet of things, and machine learning.
+
+Where does TinyML fit in?
+
+Industry 4.0 encompasses multiple novel technologies, including IoT, blockchains, and tinyML. TinyML, specifically, will come to play a very important role in Industry 4.0. 
+
+One reason for this is a reduced network load. In a network of interconnected devices, it is easy for the network to become saturated with information. Such a situation might occur if all data for monitoring purposes has to be continually transmitted to a central repository for monitoring purposes. Instead, TinyML enables individual devices to manage their own data and make intelligent decisions based on this information, thus limiting the communication load on the network.
+
+Another important factor is energy efficiency. As we have discussed previously, transmitting data across devices is energy-intensive. By performing inference on-device and minimizing external communications, we maximize energy efficiency. Given the importance of sustainability in modern industry and the projected exponential growth in IoT usage in the coming decade, this provides an important stimulus for using tinyML.
+
+Finally, performing inference on-device minimizes latency. Nowadays, it is common to find systems that upload data from an edge device to a cloud server for processing and then return the processed information to the edge device. This message passing across a network is not only energy-intensive and clogs the network, but is also slow. By performing inference on-device, we are not limited by network speeds and only by the hardware constraints of our devices.
+
+Hopefully, it is now clear that with the introduction of tinyML, the wealth of information procured by edge devices can now be leveraged for intelligent control of industrial processes and business operations. Industry 4.0 essentially provides the capability to perform data-driven optimization of business processes in real-time, allowing inefficiencies to be ironed out almost entirely. TinyML will play a fundamental role for the large-scale use of machine learning in the industry.
+
